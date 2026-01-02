@@ -99,4 +99,4 @@ The application follows a 3-step pipeline to ensure high-confidence predictions:
 * Fresher Python Developer
 
 
-**Would you like me to generate a `requirements.txt` file for you so that users can install all libraries with a single command?**
+
