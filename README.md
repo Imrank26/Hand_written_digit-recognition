@@ -94,12 +94,9 @@ The application follows a 3-step pipeline to ensure high-confidence predictions:
 
 ## 👤 Author
 
-**Your Name**
+**Mohammed Imran Khattal**
 
 * Fresher Python Developer
-* [Your LinkedIn Profile Link]
-* [Your Portfolio Link]
 
----
 
 **Would you like me to generate a `requirements.txt` file for you so that users can install all libraries with a single command?**
